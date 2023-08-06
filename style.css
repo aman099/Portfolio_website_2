@@ -81,6 +81,7 @@ body {
 
 section {
   min-height: 100vh;
+  min-height: 100dvh;
   padding: 10rem 9% 2rem;
 }
 
@@ -337,7 +338,7 @@ section {
   font-size: 2.6rem;
 }
 
-.about-content h3 .aboutText{
+.about-content h3 .aboutText {
   color: var(--main-color);
 }
 
